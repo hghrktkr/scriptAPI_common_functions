@@ -3,7 +3,7 @@ export const initialItems = [
     {
         typeId: "minecraft:stick",
         amount: 1,
-        data: 0
+        data: 0,
         info: null
     }
 ];
